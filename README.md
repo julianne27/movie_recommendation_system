@@ -1,6 +1,5 @@
 # Movie Recommendation System
 
-## Jupyter Notebook
 **movie recommender.ipynb** contains the full code of the recommender.
 
 ## data
