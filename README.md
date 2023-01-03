@@ -4,7 +4,7 @@
 
 ## data
 The data folder contains the .csv and .tsv files used in the recommender.
-> NOTE: The title.basics.tsv file is 725MB and is too large to be uploaded to GitHub at this time.
+> NOTE: The title.basics.tsv file is 725MB and is too large to be uploaded to GitHub at this time. I am working on finding a way to get it on GitHub.
 
 ## final report
 The final report folder contains the final write-up and presentation slides.
